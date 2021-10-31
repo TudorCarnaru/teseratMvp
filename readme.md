@@ -1,0 +1,2 @@
+- Must use .png files
+- Requires download of tesseractdata tree and setting it via the line         tesseract.setDatapath("src/main/resources/OCR/tessdata");
